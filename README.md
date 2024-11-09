@@ -1,2 +1,2 @@
 # Desktop-Virtual-Assistant
-Desktop virtual assistant that performs voice-activated tasks like playing music, web browsing, and opening applications.
+Welcome to AI, your personal desktop virtual assistant! AI can recognize voice commands to perform a variety of tasks such as playing YouTube videos, checking the time, searching Wikipedia, telling jokes, opening applications, and more.
