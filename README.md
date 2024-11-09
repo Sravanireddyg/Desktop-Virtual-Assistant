@@ -59,7 +59,7 @@ Welcome to AI, your personal desktop virtual assistant! AI can recognize voice c
 Refer to the `requirements.txt` file for the list of dependencies. You can install them using the command:
 ```bash
 pip install -r requirements.txt
+```
 
-## Author
 
-[Sravani Reddy Gudibandi](https://github.com/Sravanireddyg)
+
