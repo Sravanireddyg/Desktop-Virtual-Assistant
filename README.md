@@ -1,4 +1,4 @@
-# Desktop Virtual Assistant - Panda
+# Desktop Virtual Assistant - AI
 
 Welcome to AI, your personal desktop virtual assistant! AI can recognize voice commands to perform a variety of tasks such as playing YouTube videos, checking the time, searching Wikipedia, telling jokes, opening applications, and more.
 
@@ -61,5 +61,8 @@ Refer to the `requirements.txt` file for the list of dependencies. You can insta
 pip install -r requirements.txt
 ```
 
+## Author
+
+[Sravani Reddy Gudibandi](https://github.com/Sravanireddyg)
 
 
